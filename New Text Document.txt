@@ -1,0 +1,15 @@
+https://github.com/krish/microservices-course-on-youtube/blob/master/video_009-authorization-server-with-mysql/authorization-server/src/main/java/com/krishantha/rentcloud/authorizationserver/config/AuthorizationServerConfiguration.java
+
+
+https://github.com/talk2amareswaran/spring-boot2-oauth2-auth-server-jwt-mysql
+
+
+https://github.com/talk2amareswaran/Spring-Boot-2.1-OAuth2-Authorization-Server-and-Resource-Server-JWT-and-MySQL
+
+
+https://www.youtube.com/watch?v=ykkrASGzG_M
+
+https://www.youtube.com/watch?v=l9chhjL7Kuk
+
+
+https://www.youtube.com/watch?v=wxebTn_a930
